@@ -1,0 +1,2 @@
+# HibernateOneOneBidirectionalForeignkey
+Hibernate OneOne Bidirectional Foreignkey
